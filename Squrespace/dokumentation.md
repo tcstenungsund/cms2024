@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-27/02/24
+2024-02-27
 
 Idag har vi diskuterat layouten för det kommande projektet. Vi har gått igenom allas roller och säkerställt att alla i gruppen är delaktiga i vårt Git-repository.
 
@@ -43,5 +43,7 @@ Slutförde de påbörjade wireframesen.
 Påbörjade arbetet med tre nya wireframes, vilket resulterade i totalt fem wireframes för projektet.
 
 Började skapa projektets Wix-sida för webbplatsen.
+
+Vi har sett till så att alla är med i Wix-sidan
 
 ------------------------------------------------------------------------------------------------------------------------------------------
