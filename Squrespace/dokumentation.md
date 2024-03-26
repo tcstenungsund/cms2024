@@ -18,7 +18,7 @@ Utvecklade ett nytt färgschema för designen.
 
 Började arbeta på logotypen.
 
-Uppdaterade styrguiden med nya bilder.
+Uppdaterade styleguiden med nya bilder.
 
 Började arbeta med moderborden för projektet.
 
