@@ -2,7 +2,7 @@
 
 # <ins>**Sqaurespace dokumentation:**</ins>
 
-27/02/24
+2024-02-27
 Idag har vi diskuterat layup för kommande projektet. Vi har kollat över allas roller samt sätt till så att alla i gruppen är med i git rummet. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,7 +39,7 @@ De påbörjade wire frame'sen blev klara.
 
 Idag har vi påbörjat 3 nya wire frame's. detta resulterar i 5 wireframes sammanlagt.
 
-Vi påbörjar även wix'en. 
+Vi påbörjar även wix'en.
 
 
 
