@@ -2,45 +2,45 @@
 
 # <ins>**Sqaurespace dokumentation:**</ins>
 
-2024-02-27
-Idag har vi diskuterat layup för kommande projektet. Vi har kollat över allas roller samt sätt till så att alla i gruppen är med i git rummet. 
+
+27/02/24
+
+Idag har vi diskuterat layouten för det kommande projektet. Vi har gått igenom allas roller och säkerställt att alla i gruppen är delaktiga i vårt Git-repository.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-2024-03-12 
+2024-03-12
 
-vi har gjort etvå wire frame's.
+Skapade två wireframes för projektet.
 
-vi har gjort ännu ett nytt färg schema.
+Utvecklade ett nytt färgschema för designen.
 
-vi har börjat med loggan.
+Började arbeta på logotypen.
 
-vi har lagt in nya bilder i styeguiden in i vårat dokument.
+Uppdaterade styrguiden med nya bilder.
 
-vi har börjat med moderborden.
+Började arbeta med moderborden för projektet.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 2024-03-19
 
-Moodboarden blev klar.
+Färdigställde moodboarden för att tydliggöra projektets visuella stil.
 
-Vi tog bilder.
+Fotograferade bilder för projektets innehåll.
 
-Färgtemat blev klart.
+Slutförde det slutgiltiga färgtemat för designen.
 
-Loggotypen blev klargjord.
+Färdigställde logotypen.
 
-De påbörjade wire frame'sen blev klara.
+Slutförde de påbörjade wireframesen.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 2024-03-26
 
-Idag har vi påbörjat 3 nya wire frame's. detta resulterar i 5 wireframes sammanlagt.
+Påbörjade arbetet med tre nya wireframes, vilket resulterade i totalt fem wireframes för projektet.
 
-Vi påbörjar även wix'en.
-
-
+Började skapa projektets Wix-sida för webbplatsen.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
