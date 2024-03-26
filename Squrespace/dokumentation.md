@@ -44,6 +44,6 @@ Påbörjade arbetet med tre nya wireframes, vilket resulterade i totalt fem wire
 
 Började skapa projektets Wix-sida för webbplatsen.
 
-Vi har sett till så att alla är med i Wix-sidan
+Såg till att alla är med i Wix-sidan.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
