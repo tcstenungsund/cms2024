@@ -16,3 +16,10 @@ vi har börjat med loggan.
 vi har lagt in nya bilder i styeguiden in i vårat dokument.
 
 vi har börjat med moderborden.
+
+2024-03-26
+
+Idag har vi påbörjat 3 nya wireframes.
+
+Vi påbörjar även wix'en.
+
