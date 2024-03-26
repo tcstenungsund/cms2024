@@ -42,8 +42,16 @@ Slutförde de påbörjade wireframesen.
 
 Påbörjade arbetet med tre nya wireframes, vilket resulterade i totalt fem wireframes för projektet.
 
-Började skapa projektets Wix-sida för webbplatsen.
+Började skapa projektets Wix-sida för webbplatsen. 
 
-Såg till att alla är med i Wix-sidan.
+Alla skapade Wix konton och vi såg till att alla är med i Wix-sidan.
+
+Laddade up alla wire frames till vårat repository. 
+
+Vi valde ut vilken av wire frame sidorna vi tyckte såg bäst ut och bestämde oss för att jobba med den
+
+Startat upp squarespace sida och utforskat hur det fungerar osv...
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
