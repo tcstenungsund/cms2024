@@ -58,12 +58,8 @@ Startat upp squarespace sida och utforskat hur det fungerar osv...
 
 2024-04-16
 
-
-
-
-
-
-
-
+Fortsatt på wix sidan med planering så som wireframe, färgschema och lägga in innehåll. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+
