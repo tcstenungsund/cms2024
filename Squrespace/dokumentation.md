@@ -48,7 +48,7 @@ Alla skapade Wix konton och vi såg till att alla är med i Wix-sidan.
 
 Laddade up alla wire frames till vårat repository. 
 
-Vi valde ut vilken av wire frame sidorna vi tyckte såg bäst ut och bestämde oss för att jobba med den
+Vi valde ut vilken av wire frame sidorna vi tyckte såg bäst ut och bestämde oss för att jobba med den.
 
 Startat upp squarespace sida och utforskat hur det fungerar osv...
 
@@ -59,6 +59,10 @@ Startat upp squarespace sida och utforskat hur det fungerar osv...
 2024-04-16
 
 Fortsatt på wix sidan med planering så som wireframe, färgschema och lägga in innehåll. 
+
+Ändrar veckans lunch meny.
+
+Behövt börja om på squarespac (pga två veckors testperiod).
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
