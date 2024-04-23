@@ -52,6 +52,12 @@ Vi valde ut vilken av wire frame sidorna vi tyckte såg bäst ut och bestämde o
 
 Startat upp squarespace sida och utforskat hur det fungerar osv...
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Jobbat på att rätt bilder finns på våran squarespace, så att innehållet håller ihop med vårat mål.
+
+Ny meny till squarespace-sidan.
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
