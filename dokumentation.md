@@ -54,6 +54,8 @@ Startat upp squarespace sida och utforskat hur det fungerar osv...
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+2024-04-23
+
 Jobbat på att rätt bilder finns på våran squarespace, så att innehållet håller ihop med vårat mål.
 
 Ny meny till squarespace-sidan.
