@@ -60,6 +60,24 @@ Jobbat på att rätt bilder finns på våran squarespace, så att innehållet h�
 
 Ny meny till squarespace-sidan.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+2024-04-30
+
+ Besvarat frågor kring Squarespace.
+
+ Besvarat frågor kring Wix
+
+ Jobbat på Squarespace sidan: adress, öppetider, kontakt, meny, ändrat färger. Ny nav bar.
+
+ Färdigtsträllt meny.
+
+ Klargjort Wix hemsidan: innehåll, färgcshema, bilder, rubriker, organisersat. 
+
+ Pros & Cons på squarespace. 
+
+ 
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
