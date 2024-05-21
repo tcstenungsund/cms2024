@@ -66,7 +66,7 @@ Ny meny till squarespace-sidan.
 
  Besvarat frågor kring Squarespace.
 
- Besvarat frågor kring Wix
+ Besvarat frågor kring Wix.
 
  Jobbat på Squarespace sidan: adress, öppetider, kontakt, meny, ändrat färger. Ny nav bar.
 
@@ -76,9 +76,17 @@ Ny meny till squarespace-sidan.
 
  Pros & Cons på squarespace. 
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ 2024-05-21
+
+ Wix frågor klara.
+
+ Squarespace frågot klara.
+
+ Squarespace & Wix sida totalt klarställda.
+
  
 
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------------------------------
 
