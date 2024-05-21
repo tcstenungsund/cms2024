@@ -82,7 +82,7 @@ Ny meny till squarespace-sidan.
 
  Wix frågor klara.
 
- Squarespace frågot klara.
+ Squarespace frågor klara.
 
  Squarespace & Wix sida totalt klarställda.
 
